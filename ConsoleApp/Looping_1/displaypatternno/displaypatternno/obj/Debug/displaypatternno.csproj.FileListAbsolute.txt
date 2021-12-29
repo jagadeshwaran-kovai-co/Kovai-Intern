@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternno\displaypatternno\bin\Debug\displaypatternno.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternno\displaypatternno\bin\Debug\displaypatternno.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternno\displaypatternno\bin\Debug\displaypatternno.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternno\displaypatternno\obj\Debug\displaypatternno.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternno\displaypatternno\obj\Debug\displaypatternno.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternno\displaypatternno\obj\Debug\displaypatternno.pdb

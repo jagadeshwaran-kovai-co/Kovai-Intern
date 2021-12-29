@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Array_1\storeandprintarray\storeandprintarray\bin\Debug\storeandprintarray.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\storeandprintarray\storeandprintarray\bin\Debug\storeandprintarray.exe
+D:\.NET Framework\ConsoleApp\Array_1\storeandprintarray\storeandprintarray\bin\Debug\storeandprintarray.pdb
+D:\.NET Framework\ConsoleApp\Array_1\storeandprintarray\storeandprintarray\obj\Debug\storeandprintarray.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Array_1\storeandprintarray\storeandprintarray\obj\Debug\storeandprintarray.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\storeandprintarray\storeandprintarray\obj\Debug\storeandprintarray.exe
+D:\.NET Framework\ConsoleApp\Array_1\storeandprintarray\storeandprintarray\obj\Debug\storeandprintarray.pdb

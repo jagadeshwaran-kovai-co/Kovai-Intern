@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_2\multiplicationoftwomatrix\multiplicationoftwomatrix\bin\Debug\multiplicationoftwomatrix.exe.config
+D:\.NET Framework\ConsoleApp\Array_2\multiplicationoftwomatrix\multiplicationoftwomatrix\bin\Debug\multiplicationoftwomatrix.exe
+D:\.NET Framework\ConsoleApp\Array_2\multiplicationoftwomatrix\multiplicationoftwomatrix\bin\Debug\multiplicationoftwomatrix.pdb
+D:\.NET Framework\ConsoleApp\Array_2\multiplicationoftwomatrix\multiplicationoftwomatrix\obj\Debug\multiplicationoftwomatrix.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_2\multiplicationoftwomatrix\multiplicationoftwomatrix\obj\Debug\multiplicationoftwomatrix.exe
+D:\.NET Framework\ConsoleApp\Array_2\multiplicationoftwomatrix\multiplicationoftwomatrix\obj\Debug\multiplicationoftwomatrix.pdb

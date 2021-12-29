@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Branching_2\readanddisplaydigit\readanddisplaydigit\bin\Debug\readanddisplaydigit.exe.config
+D:\.NET Framework\ConsoleApp\Branching_2\readanddisplaydigit\readanddisplaydigit\bin\Debug\readanddisplaydigit.exe
+D:\.NET Framework\ConsoleApp\Branching_2\readanddisplaydigit\readanddisplaydigit\bin\Debug\readanddisplaydigit.pdb
+D:\.NET Framework\ConsoleApp\Branching_2\readanddisplaydigit\readanddisplaydigit\obj\Debug\readanddisplaydigit.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching_2\readanddisplaydigit\readanddisplaydigit\obj\Debug\readanddisplaydigit.exe
+D:\.NET Framework\ConsoleApp\Branching_2\readanddisplaydigit\readanddisplaydigit\obj\Debug\readanddisplaydigit.pdb

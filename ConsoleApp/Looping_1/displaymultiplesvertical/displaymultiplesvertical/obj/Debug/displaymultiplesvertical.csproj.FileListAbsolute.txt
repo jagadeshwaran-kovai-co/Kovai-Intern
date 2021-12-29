@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Looping_1\displaymultiplesvertical\displaymultiplesvertical\obj\Debug\displaymultiplesvertical.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Looping_1\displaymultiplesvertical\displaymultiplesvertical\obj\Debug\displaymultiplesvertical.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\displaymultiplesvertical\displaymultiplesvertical\bin\Debug\displaymultiplesvertical.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\displaymultiplesvertical\displaymultiplesvertical\bin\Debug\displaymultiplesvertical.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaymultiplesvertical\displaymultiplesvertical\bin\Debug\displaymultiplesvertical.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\displaymultiplesvertical\displaymultiplesvertical\obj\Debug\displaymultiplesvertical.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaymultiplesvertical\displaymultiplesvertical\obj\Debug\displaymultiplesvertical.pdb

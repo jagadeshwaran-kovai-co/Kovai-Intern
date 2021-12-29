@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_1\copyofarray\copyofarray\bin\Debug\copyofarray.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\copyofarray\copyofarray\bin\Debug\copyofarray.exe
+D:\.NET Framework\ConsoleApp\Array_1\copyofarray\copyofarray\bin\Debug\copyofarray.pdb
+D:\.NET Framework\ConsoleApp\Array_1\copyofarray\copyofarray\obj\Debug\copyofarray.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\copyofarray\copyofarray\obj\Debug\copyofarray.exe
+D:\.NET Framework\ConsoleApp\Array_1\copyofarray\copyofarray\obj\Debug\copyofarray.pdb

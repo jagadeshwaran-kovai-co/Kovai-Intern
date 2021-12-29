@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_2\displaynoinreverse\displaynoinreverse\bin\Debug\displaynoinreverse.exe.config
+D:\.NET Framework\ConsoleApp\Looping_2\displaynoinreverse\displaynoinreverse\bin\Debug\displaynoinreverse.exe
+D:\.NET Framework\ConsoleApp\Looping_2\displaynoinreverse\displaynoinreverse\bin\Debug\displaynoinreverse.pdb
+D:\.NET Framework\ConsoleApp\Looping_2\displaynoinreverse\displaynoinreverse\obj\Debug\displaynoinreverse.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_2\displaynoinreverse\displaynoinreverse\obj\Debug\displaynoinreverse.exe
+D:\.NET Framework\ConsoleApp\Looping_2\displaynoinreverse\displaynoinreverse\obj\Debug\displaynoinreverse.pdb

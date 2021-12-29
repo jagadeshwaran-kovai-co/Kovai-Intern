@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Methods\raisingaint\raisingaint\bin\Debug\raisingaint.exe.config
+D:\.NET Framework\ConsoleApp\Methods\raisingaint\raisingaint\bin\Debug\raisingaint.exe
+D:\.NET Framework\ConsoleApp\Methods\raisingaint\raisingaint\bin\Debug\raisingaint.pdb
+D:\.NET Framework\ConsoleApp\Methods\raisingaint\raisingaint\obj\Debug\raisingaint.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Methods\raisingaint\raisingaint\obj\Debug\raisingaint.exe
+D:\.NET Framework\ConsoleApp\Methods\raisingaint\raisingaint\obj\Debug\raisingaint.pdb

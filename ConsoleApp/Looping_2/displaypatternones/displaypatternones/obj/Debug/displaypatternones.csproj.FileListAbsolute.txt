@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatternones\displaypatternones\bin\Debug\displaypatternones.exe.config
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatternones\displaypatternones\bin\Debug\displaypatternones.exe
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatternones\displaypatternones\bin\Debug\displaypatternones.pdb
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatternones\displaypatternones\obj\Debug\displaypatternones.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatternones\displaypatternones\obj\Debug\displaypatternones.exe
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatternones\displaypatternones\obj\Debug\displaypatternones.pdb

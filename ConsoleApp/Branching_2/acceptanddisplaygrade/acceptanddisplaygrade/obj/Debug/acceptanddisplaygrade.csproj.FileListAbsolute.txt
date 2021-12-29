@@ -1,0 +1,8 @@
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\bin\Debug\acceptanddisplaygrade.exe.config
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\bin\Debug\acceptanddisplaygrade.exe
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\bin\Debug\acceptanddisplaygrade.pdb
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\obj\Debug\acceptanddisplaygrade.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\obj\Debug\acceptanddisplaygrade.exe
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\obj\Debug\acceptanddisplaygrade.pdb
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\obj\Debug\acceptanddisplaygrade.csproj.AssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Branching_2\acceptanddisplaygrade\acceptanddisplaygrade\obj\Debug\acceptanddisplaygrade.csproj.SuggestedBindingRedirects.cache

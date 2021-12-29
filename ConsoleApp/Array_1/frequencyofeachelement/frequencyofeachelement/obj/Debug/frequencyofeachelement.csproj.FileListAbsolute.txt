@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_1\frequencyofeachelement\frequencyofeachelement\bin\Debug\frequencyofeachelement.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\frequencyofeachelement\frequencyofeachelement\bin\Debug\frequencyofeachelement.exe
+D:\.NET Framework\ConsoleApp\Array_1\frequencyofeachelement\frequencyofeachelement\bin\Debug\frequencyofeachelement.pdb
+D:\.NET Framework\ConsoleApp\Array_1\frequencyofeachelement\frequencyofeachelement\obj\Debug\frequencyofeachelement.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\frequencyofeachelement\frequencyofeachelement\obj\Debug\frequencyofeachelement.exe
+D:\.NET Framework\ConsoleApp\Array_1\frequencyofeachelement\frequencyofeachelement\obj\Debug\frequencyofeachelement.pdb

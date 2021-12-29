@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_2\primenumber\primenumber\bin\Debug\primenumber.exe.config
+D:\.NET Framework\ConsoleApp\Looping_2\primenumber\primenumber\bin\Debug\primenumber.exe
+D:\.NET Framework\ConsoleApp\Looping_2\primenumber\primenumber\bin\Debug\primenumber.pdb
+D:\.NET Framework\ConsoleApp\Looping_2\primenumber\primenumber\obj\Debug\primenumber.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_2\primenumber\primenumber\obj\Debug\primenumber.exe
+D:\.NET Framework\ConsoleApp\Looping_2\primenumber\primenumber\obj\Debug\primenumber.pdb

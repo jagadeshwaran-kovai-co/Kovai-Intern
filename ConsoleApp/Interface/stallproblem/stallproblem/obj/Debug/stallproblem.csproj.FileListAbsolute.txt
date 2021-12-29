@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Interface\stallproblem\stallproblem\bin\Debug\stallproblem.exe.config
+D:\.NET Framework\ConsoleApp\Interface\stallproblem\stallproblem\bin\Debug\stallproblem.exe
+D:\.NET Framework\ConsoleApp\Interface\stallproblem\stallproblem\bin\Debug\stallproblem.pdb
+D:\.NET Framework\ConsoleApp\Interface\stallproblem\stallproblem\obj\Debug\stallproblem.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Interface\stallproblem\stallproblem\obj\Debug\stallproblem.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Interface\stallproblem\stallproblem\obj\Debug\stallproblem.exe
+D:\.NET Framework\ConsoleApp\Interface\stallproblem\stallproblem\obj\Debug\stallproblem.pdb

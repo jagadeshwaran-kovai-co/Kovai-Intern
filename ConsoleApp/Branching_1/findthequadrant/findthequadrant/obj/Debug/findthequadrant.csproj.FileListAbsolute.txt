@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Branching\findthequadrant\findthequadrant\bin\Debug\findthequadrant.exe.config
+D:\.NET Framework\ConsoleApp\Branching\findthequadrant\findthequadrant\bin\Debug\findthequadrant.exe
+D:\.NET Framework\ConsoleApp\Branching\findthequadrant\findthequadrant\bin\Debug\findthequadrant.pdb
+D:\.NET Framework\ConsoleApp\Branching\findthequadrant\findthequadrant\obj\Debug\findthequadrant.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching\findthequadrant\findthequadrant\obj\Debug\findthequadrant.exe
+D:\.NET Framework\ConsoleApp\Branching\findthequadrant\findthequadrant\obj\Debug\findthequadrant.pdb

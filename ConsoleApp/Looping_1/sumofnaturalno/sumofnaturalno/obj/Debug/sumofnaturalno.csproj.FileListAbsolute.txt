@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Looping_1\sumofnaturalno\sumofnaturalno\bin\Debug\sumofnaturalno.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\sumofnaturalno\sumofnaturalno\bin\Debug\sumofnaturalno.exe
+D:\.NET Framework\ConsoleApp\Looping_1\sumofnaturalno\sumofnaturalno\bin\Debug\sumofnaturalno.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\sumofnaturalno\sumofnaturalno\obj\Debug\sumofnaturalno.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\sumofnaturalno\sumofnaturalno\obj\Debug\sumofnaturalno.exe
+D:\.NET Framework\ConsoleApp\Looping_1\sumofnaturalno\sumofnaturalno\obj\Debug\sumofnaturalno.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\sumofnaturalno\sumofnaturalno\obj\Debug\sumofnaturalno.csprojAssemblyReference.cache

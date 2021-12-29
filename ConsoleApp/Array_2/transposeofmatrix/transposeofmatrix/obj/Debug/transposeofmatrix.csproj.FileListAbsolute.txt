@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_2\transposeofmatrix\transposeofmatrix\bin\Debug\transposeofmatrix.exe.config
+D:\.NET Framework\ConsoleApp\Array_2\transposeofmatrix\transposeofmatrix\bin\Debug\transposeofmatrix.exe
+D:\.NET Framework\ConsoleApp\Array_2\transposeofmatrix\transposeofmatrix\bin\Debug\transposeofmatrix.pdb
+D:\.NET Framework\ConsoleApp\Array_2\transposeofmatrix\transposeofmatrix\obj\Debug\transposeofmatrix.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_2\transposeofmatrix\transposeofmatrix\obj\Debug\transposeofmatrix.exe
+D:\.NET Framework\ConsoleApp\Array_2\transposeofmatrix\transposeofmatrix\obj\Debug\transposeofmatrix.pdb

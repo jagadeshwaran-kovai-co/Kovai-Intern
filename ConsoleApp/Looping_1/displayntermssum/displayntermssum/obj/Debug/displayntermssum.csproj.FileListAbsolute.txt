@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_1\displayntermssum\displayntermssum\bin\Debug\displayntermssum.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\displayntermssum\displayntermssum\bin\Debug\displayntermssum.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displayntermssum\displayntermssum\bin\Debug\displayntermssum.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\displayntermssum\displayntermssum\obj\Debug\displayntermssum.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\displayntermssum\displayntermssum\obj\Debug\displayntermssum.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displayntermssum\displayntermssum\obj\Debug\displayntermssum.pdb

@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternasterisk\displaypatternasterisk\bin\Debug\displaypatternasterisk.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternasterisk\displaypatternasterisk\bin\Debug\displaypatternasterisk.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternasterisk\displaypatternasterisk\bin\Debug\displaypatternasterisk.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternasterisk\displaypatternasterisk\obj\Debug\displaypatternasterisk.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternasterisk\displaypatternasterisk\obj\Debug\displaypatternasterisk.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaypatternasterisk\displaypatternasterisk\obj\Debug\displaypatternasterisk.pdb

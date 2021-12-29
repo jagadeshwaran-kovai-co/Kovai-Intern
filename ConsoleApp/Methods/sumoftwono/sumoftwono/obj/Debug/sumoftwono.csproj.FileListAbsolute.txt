@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Methods\sumoftwono\sumoftwono\bin\Debug\sumoftwono.exe.config
+D:\.NET Framework\ConsoleApp\Methods\sumoftwono\sumoftwono\bin\Debug\sumoftwono.exe
+D:\.NET Framework\ConsoleApp\Methods\sumoftwono\sumoftwono\bin\Debug\sumoftwono.pdb
+D:\.NET Framework\ConsoleApp\Methods\sumoftwono\sumoftwono\obj\Debug\sumoftwono.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Methods\sumoftwono\sumoftwono\obj\Debug\sumoftwono.exe
+D:\.NET Framework\ConsoleApp\Methods\sumoftwono\sumoftwono\obj\Debug\sumoftwono.pdb

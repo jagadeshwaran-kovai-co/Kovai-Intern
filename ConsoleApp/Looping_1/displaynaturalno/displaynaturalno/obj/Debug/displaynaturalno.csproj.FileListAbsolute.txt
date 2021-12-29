@@ -1,0 +1,8 @@
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\bin\Debug\displaynaturalno.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\bin\Debug\displaynaturalno.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\bin\Debug\displaynaturalno.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\obj\Debug\displaynaturalno.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\obj\Debug\displaynaturalno.exe
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\obj\Debug\displaynaturalno.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\obj\Debug\displaynaturalno.csproj.AssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Looping_1\displaynaturalno\displaynaturalno\obj\Debug\displaynaturalno.csproj.SuggestedBindingRedirects.cache

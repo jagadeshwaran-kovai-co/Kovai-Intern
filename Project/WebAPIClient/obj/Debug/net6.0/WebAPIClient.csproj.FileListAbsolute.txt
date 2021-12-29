@@ -1,0 +1,15 @@
+D:\.NET Framework\Project\WebAPIClient\bin\Debug\net6.0\WebAPIClient.exe
+D:\.NET Framework\Project\WebAPIClient\bin\Debug\net6.0\WebAPIClient.deps.json
+D:\.NET Framework\Project\WebAPIClient\bin\Debug\net6.0\WebAPIClient.runtimeconfig.json
+D:\.NET Framework\Project\WebAPIClient\bin\Debug\net6.0\WebAPIClient.dll
+D:\.NET Framework\Project\WebAPIClient\bin\Debug\net6.0\ref\WebAPIClient.dll
+D:\.NET Framework\Project\WebAPIClient\bin\Debug\net6.0\WebAPIClient.pdb
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.AssemblyReference.cache
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfoInputs.cache
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.AssemblyInfo.cs
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.csproj.CoreCompileInputs.cache
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.dll
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\ref\WebAPIClient.dll
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.pdb
+D:\.NET Framework\Project\WebAPIClient\obj\Debug\net6.0\WebAPIClient.genruntimeconfig.cache

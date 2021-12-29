@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Methods\primeno\primeno\bin\Debug\primeno.exe.config
+D:\.NET Framework\ConsoleApp\Methods\primeno\primeno\bin\Debug\primeno.exe
+D:\.NET Framework\ConsoleApp\Methods\primeno\primeno\bin\Debug\primeno.pdb
+D:\.NET Framework\ConsoleApp\Methods\primeno\primeno\obj\Debug\primeno.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Methods\primeno\primeno\obj\Debug\primeno.exe
+D:\.NET Framework\ConsoleApp\Methods\primeno\primeno\obj\Debug\primeno.pdb

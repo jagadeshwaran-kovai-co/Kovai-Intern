@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Branching_2\simplecalculation\simplecalculation\bin\Debug\simplecalculation.exe.config
+D:\.NET Framework\ConsoleApp\Branching_2\simplecalculation\simplecalculation\bin\Debug\simplecalculation.exe
+D:\.NET Framework\ConsoleApp\Branching_2\simplecalculation\simplecalculation\bin\Debug\simplecalculation.pdb
+D:\.NET Framework\ConsoleApp\Branching_2\simplecalculation\simplecalculation\obj\Debug\simplecalculation.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Branching_2\simplecalculation\simplecalculation\obj\Debug\simplecalculation.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching_2\simplecalculation\simplecalculation\obj\Debug\simplecalculation.exe
+D:\.NET Framework\ConsoleApp\Branching_2\simplecalculation\simplecalculation\obj\Debug\simplecalculation.pdb

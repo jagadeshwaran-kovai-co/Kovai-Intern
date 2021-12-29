@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Array_1\subtractionoftwomatrix\subtractionoftwomatrix\bin\Debug\subtractionoftwomatrix.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\subtractionoftwomatrix\subtractionoftwomatrix\bin\Debug\subtractionoftwomatrix.exe
+D:\.NET Framework\ConsoleApp\Array_1\subtractionoftwomatrix\subtractionoftwomatrix\bin\Debug\subtractionoftwomatrix.pdb
+D:\.NET Framework\ConsoleApp\Array_1\subtractionoftwomatrix\subtractionoftwomatrix\obj\Debug\subtractionoftwomatrix.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Array_1\subtractionoftwomatrix\subtractionoftwomatrix\obj\Debug\subtractionoftwomatrix.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\subtractionoftwomatrix\subtractionoftwomatrix\obj\Debug\subtractionoftwomatrix.exe
+D:\.NET Framework\ConsoleApp\Array_1\subtractionoftwomatrix\subtractionoftwomatrix\obj\Debug\subtractionoftwomatrix.pdb

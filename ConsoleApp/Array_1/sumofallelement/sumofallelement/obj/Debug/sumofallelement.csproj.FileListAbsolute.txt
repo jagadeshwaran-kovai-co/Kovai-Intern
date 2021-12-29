@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_1\sumofallelement\sumofallelement\bin\Debug\sumofallelement.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\sumofallelement\sumofallelement\bin\Debug\sumofallelement.exe
+D:\.NET Framework\ConsoleApp\Array_1\sumofallelement\sumofallelement\bin\Debug\sumofallelement.pdb
+D:\.NET Framework\ConsoleApp\Array_1\sumofallelement\sumofallelement\obj\Debug\sumofallelement.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\sumofallelement\sumofallelement\obj\Debug\sumofallelement.exe
+D:\.NET Framework\ConsoleApp\Array_1\sumofallelement\sumofallelement\obj\Debug\sumofallelement.pdb

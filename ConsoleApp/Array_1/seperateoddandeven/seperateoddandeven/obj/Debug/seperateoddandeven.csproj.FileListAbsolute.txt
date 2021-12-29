@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_1\seperateoddandeven\seperateoddandeven\bin\Debug\seperateoddandeven.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\seperateoddandeven\seperateoddandeven\bin\Debug\seperateoddandeven.exe
+D:\.NET Framework\ConsoleApp\Array_1\seperateoddandeven\seperateoddandeven\bin\Debug\seperateoddandeven.pdb
+D:\.NET Framework\ConsoleApp\Array_1\seperateoddandeven\seperateoddandeven\obj\Debug\seperateoddandeven.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\seperateoddandeven\seperateoddandeven\obj\Debug\seperateoddandeven.exe
+D:\.NET Framework\ConsoleApp\Array_1\seperateoddandeven\seperateoddandeven\obj\Debug\seperateoddandeven.pdb

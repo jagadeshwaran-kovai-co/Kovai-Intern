@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Branching_2\calculateandprintebill\calculateandprintebill\bin\Debug\calculateandprintebill.exe.config
+D:\.NET Framework\ConsoleApp\Branching_2\calculateandprintebill\calculateandprintebill\bin\Debug\calculateandprintebill.exe
+D:\.NET Framework\ConsoleApp\Branching_2\calculateandprintebill\calculateandprintebill\bin\Debug\calculateandprintebill.pdb
+D:\.NET Framework\ConsoleApp\Branching_2\calculateandprintebill\calculateandprintebill\obj\Debug\calculateandprintebill.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching_2\calculateandprintebill\calculateandprintebill\obj\Debug\calculateandprintebill.exe
+D:\.NET Framework\ConsoleApp\Branching_2\calculateandprintebill\calculateandprintebill\obj\Debug\calculateandprintebill.pdb

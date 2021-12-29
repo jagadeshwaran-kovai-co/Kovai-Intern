@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatterndiamond\displaypatterndiamond\bin\Debug\displaypatterndiamond.exe.config
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatterndiamond\displaypatterndiamond\bin\Debug\displaypatterndiamond.exe
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatterndiamond\displaypatterndiamond\bin\Debug\displaypatterndiamond.pdb
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatterndiamond\displaypatterndiamond\obj\Debug\displaypatterndiamond.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatterndiamond\displaypatterndiamond\obj\Debug\displaypatterndiamond.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatterndiamond\displaypatterndiamond\obj\Debug\displaypatterndiamond.exe
+D:\.NET Framework\ConsoleApp\Looping_2\displaypatterndiamond\displaypatterndiamond\obj\Debug\displaypatterndiamond.pdb

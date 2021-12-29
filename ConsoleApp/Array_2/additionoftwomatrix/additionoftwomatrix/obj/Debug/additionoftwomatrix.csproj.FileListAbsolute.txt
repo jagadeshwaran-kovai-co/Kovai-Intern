@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_1\additionoftwomatrix\additionoftwomatrix\bin\Debug\additionoftwomatrix.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\additionoftwomatrix\additionoftwomatrix\bin\Debug\additionoftwomatrix.exe
+D:\.NET Framework\ConsoleApp\Array_1\additionoftwomatrix\additionoftwomatrix\bin\Debug\additionoftwomatrix.pdb
+D:\.NET Framework\ConsoleApp\Array_1\additionoftwomatrix\additionoftwomatrix\obj\Debug\additionoftwomatrix.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\additionoftwomatrix\additionoftwomatrix\obj\Debug\additionoftwomatrix.exe
+D:\.NET Framework\ConsoleApp\Array_1\additionoftwomatrix\additionoftwomatrix\obj\Debug\additionoftwomatrix.pdb

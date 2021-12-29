@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Methods\sumofindividualdigits\sumofindividualdigits\bin\Debug\sumofindividualdigits.exe.config
+D:\.NET Framework\ConsoleApp\Methods\sumofindividualdigits\sumofindividualdigits\bin\Debug\sumofindividualdigits.exe
+D:\.NET Framework\ConsoleApp\Methods\sumofindividualdigits\sumofindividualdigits\bin\Debug\sumofindividualdigits.pdb
+D:\.NET Framework\ConsoleApp\Methods\sumofindividualdigits\sumofindividualdigits\obj\Debug\sumofindividualdigits.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Methods\sumofindividualdigits\sumofindividualdigits\obj\Debug\sumofindividualdigits.exe
+D:\.NET Framework\ConsoleApp\Methods\sumofindividualdigits\sumofindividualdigits\obj\Debug\sumofindividualdigits.pdb

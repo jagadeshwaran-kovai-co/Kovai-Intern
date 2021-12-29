@@ -1,0 +1,15 @@
+D:\.NET Framework\Project\getset\getset\bin\Debug\getset.exe.config
+D:\.NET Framework\Project\getset\getset\bin\Debug\getset.exe
+D:\.NET Framework\Project\getset\getset\bin\Debug\getset.pdb
+D:\.NET Framework\Project\getset\getset\obj\Debug\getset.csprojAssemblyReference.cache
+D:\.NET Framework\Project\getset\getset\obj\Debug\getset.csproj.CoreCompileInputs.cache
+D:\.NET Framework\Project\getset\getset\obj\Debug\getset.exe
+D:\.NET Framework\Project\getset\getset\obj\Debug\getset.pdb
+D:\.NET Framework\ConsoleApp\GetSet\getset\bin\Debug\getset.exe.config
+D:\.NET Framework\ConsoleApp\GetSet\getset\bin\Debug\getset.exe
+D:\.NET Framework\ConsoleApp\GetSet\getset\bin\Debug\getset.pdb
+D:\.NET Framework\ConsoleApp\GetSet\getset\obj\Debug\getset.csproj.AssemblyReference.cache
+D:\.NET Framework\ConsoleApp\GetSet\getset\obj\Debug\getset.csproj.SuggestedBindingRedirects.cache
+D:\.NET Framework\ConsoleApp\GetSet\getset\obj\Debug\getset.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\GetSet\getset\obj\Debug\getset.exe
+D:\.NET Framework\ConsoleApp\GetSet\getset\obj\Debug\getset.pdb

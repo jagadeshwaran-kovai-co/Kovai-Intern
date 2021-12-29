@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Looping_1\sumandaverage\sumandaverage\bin\Debug\sumandaverage.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\sumandaverage\sumandaverage\bin\Debug\sumandaverage.exe
+D:\.NET Framework\ConsoleApp\Looping_1\sumandaverage\sumandaverage\bin\Debug\sumandaverage.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\sumandaverage\sumandaverage\obj\Debug\sumandaverage.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Looping_1\sumandaverage\sumandaverage\obj\Debug\sumandaverage.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\sumandaverage\sumandaverage\obj\Debug\sumandaverage.exe
+D:\.NET Framework\ConsoleApp\Looping_1\sumandaverage\sumandaverage\obj\Debug\sumandaverage.pdb

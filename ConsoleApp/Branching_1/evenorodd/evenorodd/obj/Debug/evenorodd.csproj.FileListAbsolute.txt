@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Branching\evenorodd\evenorodd\bin\Debug\evenorodd.exe.config
+D:\.NET Framework\ConsoleApp\Branching\evenorodd\evenorodd\bin\Debug\evenorodd.exe
+D:\.NET Framework\ConsoleApp\Branching\evenorodd\evenorodd\bin\Debug\evenorodd.pdb
+D:\.NET Framework\ConsoleApp\Branching\evenorodd\evenorodd\obj\Debug\evenorodd.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Branching\evenorodd\evenorodd\obj\Debug\evenorodd.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching\evenorodd\evenorodd\obj\Debug\evenorodd.exe
+D:\.NET Framework\ConsoleApp\Branching\evenorodd\evenorodd\obj\Debug\evenorodd.pdb

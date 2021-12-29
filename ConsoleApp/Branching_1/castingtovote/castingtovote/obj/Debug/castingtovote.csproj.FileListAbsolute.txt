@@ -1,0 +1,15 @@
+D:\.NET Framework\ConsoleApp\Branching\castingtovote\castingtovote\bin\Debug\castingtovote.exe.config
+D:\.NET Framework\ConsoleApp\Branching\castingtovote\castingtovote\bin\Debug\castingtovote.exe
+D:\.NET Framework\ConsoleApp\Branching\castingtovote\castingtovote\bin\Debug\castingtovote.pdb
+D:\.NET Framework\ConsoleApp\Branching\castingtovote\castingtovote\obj\Debug\castingtovote.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Branching\castingtovote\castingtovote\obj\Debug\castingtovote.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching\castingtovote\castingtovote\obj\Debug\castingtovote.exe
+D:\.NET Framework\ConsoleApp\Branching\castingtovote\castingtovote\obj\Debug\castingtovote.pdb
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\bin\Debug\castingtovote.exe.config
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\bin\Debug\castingtovote.exe
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\bin\Debug\castingtovote.pdb
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\obj\Debug\castingtovote.csproj.AssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\obj\Debug\castingtovote.csproj.SuggestedBindingRedirects.cache
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\obj\Debug\castingtovote.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\obj\Debug\castingtovote.exe
+D:\.NET Framework\ConsoleApp\Branching_1\castingtovote\castingtovote\obj\Debug\castingtovote.pdb

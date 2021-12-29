@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Branching_2\displaymonthname\displaymonthname\bin\Debug\displaymonthname.exe.config
+D:\.NET Framework\ConsoleApp\Branching_2\displaymonthname\displaymonthname\bin\Debug\displaymonthname.exe
+D:\.NET Framework\ConsoleApp\Branching_2\displaymonthname\displaymonthname\bin\Debug\displaymonthname.pdb
+D:\.NET Framework\ConsoleApp\Branching_2\displaymonthname\displaymonthname\obj\Debug\displaymonthname.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching_2\displaymonthname\displaymonthname\obj\Debug\displaymonthname.exe
+D:\.NET Framework\ConsoleApp\Branching_2\displaymonthname\displaymonthname\obj\Debug\displaymonthname.pdb

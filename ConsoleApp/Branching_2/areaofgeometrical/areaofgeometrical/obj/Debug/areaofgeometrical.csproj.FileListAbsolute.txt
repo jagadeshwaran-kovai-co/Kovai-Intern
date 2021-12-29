@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Branching_2\areaofgeometrical\areaofgeometrical\bin\Debug\areaofgeometrical.exe.config
+D:\.NET Framework\ConsoleApp\Branching_2\areaofgeometrical\areaofgeometrical\bin\Debug\areaofgeometrical.exe
+D:\.NET Framework\ConsoleApp\Branching_2\areaofgeometrical\areaofgeometrical\bin\Debug\areaofgeometrical.pdb
+D:\.NET Framework\ConsoleApp\Branching_2\areaofgeometrical\areaofgeometrical\obj\Debug\areaofgeometrical.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching_2\areaofgeometrical\areaofgeometrical\obj\Debug\areaofgeometrical.exe
+D:\.NET Framework\ConsoleApp\Branching_2\areaofgeometrical\areaofgeometrical\obj\Debug\areaofgeometrical.pdb

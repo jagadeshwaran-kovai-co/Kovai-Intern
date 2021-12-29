@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Looping_1\oddnumbersum\oddnumbersum\bin\Debug\oddnumbersum.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\oddnumbersum\oddnumbersum\bin\Debug\oddnumbersum.exe
+D:\.NET Framework\ConsoleApp\Looping_1\oddnumbersum\oddnumbersum\bin\Debug\oddnumbersum.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\oddnumbersum\oddnumbersum\obj\Debug\oddnumbersum.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Looping_1\oddnumbersum\oddnumbersum\obj\Debug\oddnumbersum.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\oddnumbersum\oddnumbersum\obj\Debug\oddnumbersum.exe
+D:\.NET Framework\ConsoleApp\Looping_1\oddnumbersum\oddnumbersum\obj\Debug\oddnumbersum.pdb

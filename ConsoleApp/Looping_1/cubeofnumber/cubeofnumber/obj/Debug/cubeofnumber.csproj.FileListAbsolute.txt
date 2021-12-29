@@ -1,0 +1,8 @@
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\bin\Debug\cubeofnumber.exe.config
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\bin\Debug\cubeofnumber.exe
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\bin\Debug\cubeofnumber.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\obj\Debug\cubeofnumber.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\obj\Debug\cubeofnumber.exe
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\obj\Debug\cubeofnumber.pdb
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\obj\Debug\cubeofnumber.csproj.AssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Looping_1\cubeofnumber\cubeofnumber\obj\Debug\cubeofnumber.csproj.SuggestedBindingRedirects.cache

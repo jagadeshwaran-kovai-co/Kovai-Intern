@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_2\convertbintodecimal\convertbintodecimal\bin\Debug\convertbintodecimal.exe.config
+D:\.NET Framework\ConsoleApp\Looping_2\convertbintodecimal\convertbintodecimal\bin\Debug\convertbintodecimal.exe
+D:\.NET Framework\ConsoleApp\Looping_2\convertbintodecimal\convertbintodecimal\bin\Debug\convertbintodecimal.pdb
+D:\.NET Framework\ConsoleApp\Looping_2\convertbintodecimal\convertbintodecimal\obj\Debug\convertbintodecimal.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_2\convertbintodecimal\convertbintodecimal\obj\Debug\convertbintodecimal.exe
+D:\.NET Framework\ConsoleApp\Looping_2\convertbintodecimal\convertbintodecimal\obj\Debug\convertbintodecimal.pdb

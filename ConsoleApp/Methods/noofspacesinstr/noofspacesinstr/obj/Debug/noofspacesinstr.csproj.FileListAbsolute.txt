@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Methods\noofspacesinstr\noofspacesinstr\bin\Debug\noofspacesinstr.exe.config
+D:\.NET Framework\ConsoleApp\Methods\noofspacesinstr\noofspacesinstr\bin\Debug\noofspacesinstr.exe
+D:\.NET Framework\ConsoleApp\Methods\noofspacesinstr\noofspacesinstr\bin\Debug\noofspacesinstr.pdb
+D:\.NET Framework\ConsoleApp\Methods\noofspacesinstr\noofspacesinstr\obj\Debug\noofspacesinstr.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Methods\noofspacesinstr\noofspacesinstr\obj\Debug\noofspacesinstr.exe
+D:\.NET Framework\ConsoleApp\Methods\noofspacesinstr\noofspacesinstr\obj\Debug\noofspacesinstr.pdb

@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Looping_2\alphapatternwithasterisk\alphapatternwithasterisk\bin\Debug\alphapatternwithasterisk.exe.config
+D:\.NET Framework\ConsoleApp\Looping_2\alphapatternwithasterisk\alphapatternwithasterisk\bin\Debug\alphapatternwithasterisk.exe
+D:\.NET Framework\ConsoleApp\Looping_2\alphapatternwithasterisk\alphapatternwithasterisk\bin\Debug\alphapatternwithasterisk.pdb
+D:\.NET Framework\ConsoleApp\Looping_2\alphapatternwithasterisk\alphapatternwithasterisk\obj\Debug\alphapatternwithasterisk.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Looping_2\alphapatternwithasterisk\alphapatternwithasterisk\obj\Debug\alphapatternwithasterisk.exe
+D:\.NET Framework\ConsoleApp\Looping_2\alphapatternwithasterisk\alphapatternwithasterisk\obj\Debug\alphapatternwithasterisk.pdb

@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Array_1\twodarrayandprintmatrix\twodarrayandprintmatrix\bin\Debug\twodarrayandprintmatrix.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\twodarrayandprintmatrix\twodarrayandprintmatrix\bin\Debug\twodarrayandprintmatrix.exe
+D:\.NET Framework\ConsoleApp\Array_1\twodarrayandprintmatrix\twodarrayandprintmatrix\bin\Debug\twodarrayandprintmatrix.pdb
+D:\.NET Framework\ConsoleApp\Array_1\twodarrayandprintmatrix\twodarrayandprintmatrix\obj\Debug\twodarrayandprintmatrix.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Array_1\twodarrayandprintmatrix\twodarrayandprintmatrix\obj\Debug\twodarrayandprintmatrix.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\twodarrayandprintmatrix\twodarrayandprintmatrix\obj\Debug\twodarrayandprintmatrix.exe
+D:\.NET Framework\ConsoleApp\Array_1\twodarrayandprintmatrix\twodarrayandprintmatrix\obj\Debug\twodarrayandprintmatrix.pdb

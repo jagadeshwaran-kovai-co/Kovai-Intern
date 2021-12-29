@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Branching\readanddisplay\readanddisplay\bin\Debug\readanddisplay.exe.config
+D:\.NET Framework\ConsoleApp\Branching\readanddisplay\readanddisplay\bin\Debug\readanddisplay.exe
+D:\.NET Framework\ConsoleApp\Branching\readanddisplay\readanddisplay\bin\Debug\readanddisplay.pdb
+D:\.NET Framework\ConsoleApp\Branching\readanddisplay\readanddisplay\obj\Debug\readanddisplay.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Branching\readanddisplay\readanddisplay\obj\Debug\readanddisplay.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Branching\readanddisplay\readanddisplay\obj\Debug\readanddisplay.exe
+D:\.NET Framework\ConsoleApp\Branching\readanddisplay\readanddisplay\obj\Debug\readanddisplay.pdb

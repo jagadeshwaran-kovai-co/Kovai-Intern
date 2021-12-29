@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Array_1\duplicatesofarray\duplicatesofarray\bin\Debug\duplicatesofarray.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\duplicatesofarray\duplicatesofarray\bin\Debug\duplicatesofarray.exe
+D:\.NET Framework\ConsoleApp\Array_1\duplicatesofarray\duplicatesofarray\bin\Debug\duplicatesofarray.pdb
+D:\.NET Framework\ConsoleApp\Array_1\duplicatesofarray\duplicatesofarray\obj\Debug\duplicatesofarray.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\duplicatesofarray\duplicatesofarray\obj\Debug\duplicatesofarray.exe
+D:\.NET Framework\ConsoleApp\Array_1\duplicatesofarray\duplicatesofarray\obj\Debug\duplicatesofarray.pdb

@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Array_1\readanddisplayinreverse\readanddisplayinreverse\bin\Debug\readanddisplayinreverse.exe.config
+D:\.NET Framework\ConsoleApp\Array_1\readanddisplayinreverse\readanddisplayinreverse\bin\Debug\readanddisplayinreverse.exe
+D:\.NET Framework\ConsoleApp\Array_1\readanddisplayinreverse\readanddisplayinreverse\bin\Debug\readanddisplayinreverse.pdb
+D:\.NET Framework\ConsoleApp\Array_1\readanddisplayinreverse\readanddisplayinreverse\obj\Debug\readanddisplayinreverse.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Array_1\readanddisplayinreverse\readanddisplayinreverse\obj\Debug\readanddisplayinreverse.exe
+D:\.NET Framework\ConsoleApp\Array_1\readanddisplayinreverse\readanddisplayinreverse\obj\Debug\readanddisplayinreverse.pdb
+D:\.NET Framework\ConsoleApp\Array_1\readanddisplayinreverse\readanddisplayinreverse\obj\Debug\readanddisplayinreverse.csprojAssemblyReference.cache

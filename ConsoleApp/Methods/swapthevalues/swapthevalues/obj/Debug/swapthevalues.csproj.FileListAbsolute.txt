@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Methods\swapthevalues\swapthevalues\bin\Debug\swapthevalues.exe.config
+D:\.NET Framework\ConsoleApp\Methods\swapthevalues\swapthevalues\bin\Debug\swapthevalues.exe
+D:\.NET Framework\ConsoleApp\Methods\swapthevalues\swapthevalues\bin\Debug\swapthevalues.pdb
+D:\.NET Framework\ConsoleApp\Methods\swapthevalues\swapthevalues\obj\Debug\swapthevalues.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Methods\swapthevalues\swapthevalues\obj\Debug\swapthevalues.exe
+D:\.NET Framework\ConsoleApp\Methods\swapthevalues\swapthevalues\obj\Debug\swapthevalues.pdb
