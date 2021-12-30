@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Collection\SortedList\SortedList\SortedList\bin\Debug\SortedList.exe.config
+D:\.NET Framework\ConsoleApp\Collection\SortedList\SortedList\SortedList\bin\Debug\SortedList.exe
+D:\.NET Framework\ConsoleApp\Collection\SortedList\SortedList\SortedList\bin\Debug\SortedList.pdb
+D:\.NET Framework\ConsoleApp\Collection\SortedList\SortedList\SortedList\obj\Debug\SortedList.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Collection\SortedList\SortedList\SortedList\obj\Debug\SortedList.exe
+D:\.NET Framework\ConsoleApp\Collection\SortedList\SortedList\SortedList\obj\Debug\SortedList.pdb
+D:\.NET Framework\ConsoleApp\Collection\SortedList\SortedList\SortedList\obj\Debug\SortedList.csprojAssemblyReference.cache

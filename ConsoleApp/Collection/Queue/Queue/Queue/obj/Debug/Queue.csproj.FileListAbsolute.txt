@@ -1,0 +1,6 @@
+D:\.NET Framework\ConsoleApp\Collection\Queue\Queue\Queue\bin\Debug\Queue.exe.config
+D:\.NET Framework\ConsoleApp\Collection\Queue\Queue\Queue\bin\Debug\Queue.exe
+D:\.NET Framework\ConsoleApp\Collection\Queue\Queue\Queue\bin\Debug\Queue.pdb
+D:\.NET Framework\ConsoleApp\Collection\Queue\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Collection\Queue\Queue\Queue\obj\Debug\Queue.exe
+D:\.NET Framework\ConsoleApp\Collection\Queue\Queue\Queue\obj\Debug\Queue.pdb

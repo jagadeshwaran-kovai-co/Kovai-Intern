@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Collection\List\List\bin\Debug\List.exe.config
+D:\.NET Framework\ConsoleApp\Collection\List\List\bin\Debug\List.exe
+D:\.NET Framework\ConsoleApp\Collection\List\List\bin\Debug\List.pdb
+D:\.NET Framework\ConsoleApp\Collection\List\List\obj\Debug\List.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Collection\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Collection\List\List\obj\Debug\List.exe
+D:\.NET Framework\ConsoleApp\Collection\List\List\obj\Debug\List.pdb

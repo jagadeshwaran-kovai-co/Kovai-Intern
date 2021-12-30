@@ -1,0 +1,7 @@
+D:\.NET Framework\ConsoleApp\Collection\Stack\Stack\Stack\bin\Debug\Stack.exe.config
+D:\.NET Framework\ConsoleApp\Collection\Stack\Stack\Stack\bin\Debug\Stack.exe
+D:\.NET Framework\ConsoleApp\Collection\Stack\Stack\Stack\bin\Debug\Stack.pdb
+D:\.NET Framework\ConsoleApp\Collection\Stack\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+D:\.NET Framework\ConsoleApp\Collection\Stack\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\.NET Framework\ConsoleApp\Collection\Stack\Stack\Stack\obj\Debug\Stack.exe
+D:\.NET Framework\ConsoleApp\Collection\Stack\Stack\Stack\obj\Debug\Stack.pdb
