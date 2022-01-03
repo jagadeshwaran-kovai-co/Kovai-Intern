@@ -1,0 +1,7 @@
+D:\KOVAI.CO\.NET Framework\ConsoleApp\AsyncAwait\Asyncawait\Asyncawait\bin\Debug\Asyncawait.exe.config
+D:\KOVAI.CO\.NET Framework\ConsoleApp\AsyncAwait\Asyncawait\Asyncawait\bin\Debug\Asyncawait.exe
+D:\KOVAI.CO\.NET Framework\ConsoleApp\AsyncAwait\Asyncawait\Asyncawait\bin\Debug\Asyncawait.pdb
+D:\KOVAI.CO\.NET Framework\ConsoleApp\AsyncAwait\Asyncawait\Asyncawait\obj\Debug\Asyncawait.csprojAssemblyReference.cache
+D:\KOVAI.CO\.NET Framework\ConsoleApp\AsyncAwait\Asyncawait\Asyncawait\obj\Debug\Asyncawait.csproj.CoreCompileInputs.cache
+D:\KOVAI.CO\.NET Framework\ConsoleApp\AsyncAwait\Asyncawait\Asyncawait\obj\Debug\Asyncawait.exe
+D:\KOVAI.CO\.NET Framework\ConsoleApp\AsyncAwait\Asyncawait\Asyncawait\obj\Debug\Asyncawait.pdb
